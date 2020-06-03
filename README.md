@@ -12,7 +12,7 @@ The reason why I created this type of game was because I knew it would be challe
 
 **Options Menu:**
 ![](Selection_Screen.png)
-*NOTE: Music is currently have issues, so I have commented any code relating to music out. Do not expect music to work until further notice!*
+*NOTE: Music is currently having issues, so I have commented any code relating to music out. Do not expect music to work until further notice!*
 
 **Controls Screen:**
 ![](Controls_Screen.png)
