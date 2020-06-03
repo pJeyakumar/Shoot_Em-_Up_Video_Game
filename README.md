@@ -6,3 +6,5 @@ Why was it created?
 
 This game was created to test all the skills and knowledge i've learned throughout the semester in a practical sense. The reason why this game was created was not only to test me, but to put me in a position where I would have to bend my knowledge and skills in coding to be able to create methods and functions that work together to form a game.
 The reason why I created this type of game was because I knew it would be challenging to make and would truly be a test of what I learned so far.  
+
+**Main Screen:**
