@@ -1,4 +1,4 @@
-﻿// Piranavan Jeyakumar
+// Piranavan Jeyakumar
 // 12.22.2017
 // Culminating Project
 // To create a game consisting of all the tools we've learned to use throughout the semester
@@ -106,15 +106,15 @@ namespace A8_PiranavanJeyakumar_Culiminating
                 if (blnStartPJ == false)
                 {
                     Class1.intPlayerScorePJ = 0;
-                    rp.Play();
+                    //rp.Play();
                     lblBegin.Text = "Ready?";
                     lblBegin.Refresh();
                     System.Threading.Thread.Sleep(2000);
-                    gp.Play();
+                    //gp.Play();
                     lblBegin.Text = "Go!";
                     lblBegin.Refresh();
                     System.Threading.Thread.Sleep(750);
-                    Class1.Music.PlayLooping();
+                    //Class1.Music.PlayLooping();
                     lblBegin.Visible = false;
                     tmrGameLogic.Enabled = true;
                     tmrObstacles.Enabled = true;
