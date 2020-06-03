@@ -1,4 +1,4 @@
-﻿// Piranavan Jeyakumar
+// Piranavan Jeyakumar
 // 01.03.2018
 // Menu
 // To guide the player through the game
@@ -21,7 +21,7 @@ namespace A8_PiranavanJeyakumar_Culiminating
         public frmMainMenu()
         {
             InitializeComponent();
-                np.PlayLooping();   
+                //np.PlayLooping();   
         }
         // Will show Controls form and hide this form
         private void BtnControls_Click(object sender, EventArgs e)
