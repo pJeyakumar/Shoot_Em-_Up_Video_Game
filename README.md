@@ -4,5 +4,5 @@ My project is the culmination of all of what we learned throughout our semester 
 
 Why was it created? 
 
-	This game was created to test all the skills and knowledge if learned throughout the semester in a practical sense. The reason why this game was created was not only to test us, but to put us in a position where we would have to bend our knowledge and skills in coding to be able to create methods and functions that work together to form a game.
-	The reason why I created this type of game was because I knew it would be challenging to make and would truly be a test of what I learned so far.  
+This game was created to test all the skills and knowledge if learned throughout the semester in a practical sense. The reason why this game was created was not only to test us, but to put us in a position where we would have to bend our knowledge and skills in coding to be able to create methods and functions that work together to form a game.
+The reason why I created this type of game was because I knew it would be challenging to make and would truly be a test of what I learned so far.  
